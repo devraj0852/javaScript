@@ -1,0 +1,5 @@
+console.time('your code run time')
+console.log('hello world')
+console.table({dev: 'this',marks:65})
+console.warn('this is a warning')
+console.timeEnd('your code run time')
